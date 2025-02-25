@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\WalletControl.MauiBlazor.styles.css",
+      "Id": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\WalletControl.MauiBlazor.styles.css",
       "PackagePath": "staticwebassets\\WalletControl.MauiBlazor.styles.css"
     },
     {
-      "Id": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\favicon.png",
+      "Id": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\index.html",
+      "Id": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {

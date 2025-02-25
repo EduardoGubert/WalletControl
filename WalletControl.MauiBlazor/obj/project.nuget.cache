@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J2OdX8nouA0=",
+  "dgSpecHash": "qQkZlqaPZEI=",
   "success": true,
-  "projectFilePath": "D:\\WalletControl\\WalletControl.MauiBlazor\\WalletControl.MauiBlazor.csproj",
+  "projectFilePath": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\WalletControl.MauiBlazor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eduar\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
     "C:\\Users\\eduar\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",

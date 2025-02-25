@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WalletControl.MauiBlazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+4ffb7f0c45f8b470dee63d2cc3324e00a36be54c")]
 [assembly: System.Reflection.AssemblyProductAttribute("WalletControl.MauiBlazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WalletControl.MauiBlazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

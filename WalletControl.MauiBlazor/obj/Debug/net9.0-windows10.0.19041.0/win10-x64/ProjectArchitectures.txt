@@ -1,1 +1,1 @@
-D:\WalletControl\WalletControl.MauiBlazor\WalletControl.MauiBlazor.csproj;x64
+D:\PROJETOS\WalletControl\WalletControl.MauiBlazor\WalletControl.MauiBlazor.csproj;x64

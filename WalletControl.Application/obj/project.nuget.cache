@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/40naZGkso4=",
+  "dgSpecHash": "t1tydFFLqBs=",
   "success": true,
-  "projectFilePath": "D:\\WalletControl\\WalletControl.Application\\WalletControl.Application.csproj",
+  "projectFilePath": "D:\\PROJETOS\\WalletControl\\WalletControl.Application\\WalletControl.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eduar\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
     "C:\\Users\\eduar\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",

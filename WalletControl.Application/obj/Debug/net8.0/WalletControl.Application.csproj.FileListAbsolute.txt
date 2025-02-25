@@ -28,3 +28,4 @@ D:\WalletControl\WalletControl.Application\obj\Debug\net8.0\WalletControl.Applic
 D:\WalletControl\WalletControl.Application\obj\Debug\net8.0\refint\WalletControl.Application.dll
 D:\WalletControl\WalletControl.Application\obj\Debug\net8.0\WalletControl.Application.pdb
 D:\WalletControl\WalletControl.Application\obj\Debug\net8.0\ref\WalletControl.Application.dll
+D:\PROJETOS\WalletControl\WalletControl.Application\obj\Debug\net8.0\WalletControl.Application.sourcelink.json

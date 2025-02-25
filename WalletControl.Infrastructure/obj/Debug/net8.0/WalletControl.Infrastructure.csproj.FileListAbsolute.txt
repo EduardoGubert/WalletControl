@@ -32,3 +32,4 @@ D:\WalletControl\WalletControl.Infrastructure\obj\Debug\net8.0\WalletControl.Inf
 D:\WalletControl\WalletControl.Infrastructure\obj\Debug\net8.0\refint\WalletControl.Infrastructure.dll
 D:\WalletControl\WalletControl.Infrastructure\obj\Debug\net8.0\WalletControl.Infrastructure.pdb
 D:\WalletControl\WalletControl.Infrastructure\obj\Debug\net8.0\ref\WalletControl.Infrastructure.dll
+D:\PROJETOS\WalletControl\WalletControl.Infrastructure\obj\Debug\net8.0\WalletControl.Infrastructure.sourcelink.json

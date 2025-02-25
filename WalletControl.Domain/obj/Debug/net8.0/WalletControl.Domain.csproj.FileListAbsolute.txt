@@ -20,3 +20,4 @@ D:\WalletControl\WalletControl.Domain\obj\Debug\net8.0\WalletControl.Domain.dll
 D:\WalletControl\WalletControl.Domain\obj\Debug\net8.0\refint\WalletControl.Domain.dll
 D:\WalletControl\WalletControl.Domain\obj\Debug\net8.0\WalletControl.Domain.pdb
 D:\WalletControl\WalletControl.Domain\obj\Debug\net8.0\ref\WalletControl.Domain.dll
+D:\PROJETOS\WalletControl\WalletControl.Domain\obj\Debug\net8.0\WalletControl.Domain.sourcelink.json

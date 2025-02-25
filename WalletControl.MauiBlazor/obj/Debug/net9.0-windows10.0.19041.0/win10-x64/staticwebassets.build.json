@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bz+avD0Ev1of8qNgIIZn950k8vLgp3mCNiFBVqtciCQ=",
+  "Hash": "CSVi/b+309Bs8NO/N9yA75+qgfMGZVL1ILIOruRAo+4=",
   "Source": "WalletControl.MauiBlazor",
   "BasePath": "/",
   "Mode": "Root",
@@ -10,7 +10,7 @@
     {
       "Name": "WalletControl.MauiBlazor\\wwwroot",
       "Source": "WalletControl.MauiBlazor",
-      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\",
+      "ContentRoot": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
     }
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\mudblazor\\8.3.0\\staticwebassets\\MudBlazor.min.js"
     },
     {
-      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\0wz98yz2xy-tspksaymx7.gz",
+      "Identity": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\0wz98yz2xy-tspksaymx7.gz",
       "SourceId": "MudBlazor",
       "SourceType": "Package",
-      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "ContentRoot": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
       "BasePath": "_content/MudBlazor",
       "RelativePath": "MudBlazor.min.js.gz",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\mudblazor\\8.3.0\\staticwebassets\\MudBlazor.min.js"
     },
     {
-      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\5bdgd3dun5-h7u5vnoudv.gz",
+      "Identity": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\5bdgd3dun5-h7u5vnoudv.gz",
       "SourceId": "WalletControl.MauiBlazor",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "ContentRoot": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
       "BasePath": "/",
       "RelativePath": "WalletControl.MauiBlazor#[.{fingerprint=h7u5vnoudv}]!.bundle.scp.css.gz",
       "AssetKind": "All",
@@ -91,20 +91,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\WalletControl.MauiBlazor.bundle.scp.css",
+      "RelatedAsset": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\WalletControl.MauiBlazor.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "p09klyvujt",
       "Integrity": "qdenoCLkV4l2dpBedrS53Vm/mIpCIY2YEwm5Kxc4rMo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\WalletControl.MauiBlazor.bundle.scp.css"
+      "OriginalItemSpec": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\WalletControl.MauiBlazor.bundle.scp.css"
     },
     {
-      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\c9pa0egwxl-q0y09ufdb0.gz",
+      "Identity": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\c9pa0egwxl-q0y09ufdb0.gz",
       "SourceId": "WalletControl.MauiBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "ContentRoot": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
       "BasePath": "/",
       "RelativePath": "index#[.{fingerprint=q0y09ufdb0}]?.html.gz",
       "AssetKind": "All",
@@ -112,20 +112,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\index.html",
+      "RelatedAsset": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "4uzrsjuwid",
       "Integrity": "1GnCV2mljsyp2izXRaP7Y535geR89TjQHohys+9yg18=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\index.html"
+      "OriginalItemSpec": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\index.html"
     },
     {
-      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ja02s6j6pq-6gzpyzhau4.gz",
+      "Identity": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ja02s6j6pq-6gzpyzhau4.gz",
       "SourceId": "WalletControl.MauiBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "ContentRoot": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.gz",
       "AssetKind": "All",
@@ -133,20 +133,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "RelatedAsset": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "joqzyw7ssu",
       "Integrity": "LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
+      "OriginalItemSpec": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\kj0oejpugy-h7u5vnoudv.gz",
+      "Identity": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\kj0oejpugy-h7u5vnoudv.gz",
       "SourceId": "WalletControl.MauiBlazor",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "ContentRoot": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
       "BasePath": "/",
       "RelativePath": "WalletControl.MauiBlazor#[.{fingerprint=h7u5vnoudv}]?.styles.css.gz",
       "AssetKind": "All",
@@ -154,20 +154,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\WalletControl.MauiBlazor.styles.css",
+      "RelatedAsset": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\WalletControl.MauiBlazor.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "p09klyvujt",
       "Integrity": "qdenoCLkV4l2dpBedrS53Vm/mIpCIY2YEwm5Kxc4rMo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\WalletControl.MauiBlazor.styles.css"
+      "OriginalItemSpec": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\WalletControl.MauiBlazor.styles.css"
     },
     {
-      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\tzxjg6is5z-hmu6kx9mgf.gz",
+      "Identity": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\tzxjg6is5z-hmu6kx9mgf.gz",
       "SourceId": "MudBlazor",
       "SourceType": "Package",
-      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "ContentRoot": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
       "BasePath": "_content/MudBlazor",
       "RelativePath": "MudBlazor.min.css.gz",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\mudblazor\\8.3.0\\staticwebassets\\MudBlazor.min.css"
     },
     {
-      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\vcy69vvxaj-8inm30yfxf.gz",
+      "Identity": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\vcy69vvxaj-8inm30yfxf.gz",
       "SourceId": "WalletControl.MauiBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "ContentRoot": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
       "AssetKind": "All",
@@ -196,20 +196,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "RelatedAsset": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "fbl5ivwo6k",
       "Integrity": "Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+      "OriginalItemSpec": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\WalletControl.MauiBlazor.styles.css",
+      "Identity": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\WalletControl.MauiBlazor.styles.css",
       "SourceId": "WalletControl.MauiBlazor",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\",
       "BasePath": "/",
       "RelativePath": "WalletControl.MauiBlazor#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -224,13 +224,13 @@
       "Integrity": "05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\WalletControl.MauiBlazor.styles.css"
+      "OriginalItemSpec": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\WalletControl.MauiBlazor.styles.css"
     },
     {
-      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\WalletControl.MauiBlazor.bundle.scp.css",
+      "Identity": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\WalletControl.MauiBlazor.bundle.scp.css",
       "SourceId": "WalletControl.MauiBlazor",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\",
       "BasePath": "/",
       "RelativePath": "WalletControl.MauiBlazor#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -245,13 +245,13 @@
       "Integrity": "05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\WalletControl.MauiBlazor.bundle.scp.css"
+      "OriginalItemSpec": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\WalletControl.MauiBlazor.bundle.scp.css"
     },
     {
-      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "WalletControl.MauiBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\",
+      "ContentRoot": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "WalletControl.MauiBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\",
+      "ContentRoot": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\favicon.png",
+      "Identity": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\favicon.png",
       "SourceId": "WalletControl.MauiBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\",
+      "ContentRoot": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\index.html",
+      "Identity": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\index.html",
       "SourceId": "WalletControl.MauiBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\",
+      "ContentRoot": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -372,7 +372,7 @@
     },
     {
       "Route": "_content/MudBlazor/MudBlazor.min.css",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\tzxjg6is5z-hmu6kx9mgf.gz",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\tzxjg6is5z-hmu6kx9mgf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -427,7 +427,7 @@
     },
     {
       "Route": "_content/MudBlazor/MudBlazor.min.css.gz",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\tzxjg6is5z-hmu6kx9mgf.gz",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\tzxjg6is5z-hmu6kx9mgf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -554,7 +554,7 @@
     },
     {
       "Route": "_content/MudBlazor/MudBlazor.min.js",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\0wz98yz2xy-tspksaymx7.gz",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\0wz98yz2xy-tspksaymx7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -609,7 +609,7 @@
     },
     {
       "Route": "_content/MudBlazor/MudBlazor.min.js.gz",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\0wz98yz2xy-tspksaymx7.gz",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\0wz98yz2xy-tspksaymx7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -699,7 +699,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ja02s6j6pq-6gzpyzhau4.gz",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ja02s6j6pq-6gzpyzhau4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -722,7 +722,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+          "Value": "Tue, 25 Feb 2025 21:28:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -762,7 +762,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -783,7 +783,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+          "Value": "Tue, 25 Feb 2025 21:28:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -807,7 +807,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css.gz",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ja02s6j6pq-6gzpyzhau4.gz",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ja02s6j6pq-6gzpyzhau4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -828,7 +828,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+          "Value": "Tue, 25 Feb 2025 21:28:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -860,7 +860,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ja02s6j6pq-6gzpyzhau4.gz",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ja02s6j6pq-6gzpyzhau4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -883,7 +883,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+          "Value": "Tue, 25 Feb 2025 21:28:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -915,7 +915,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -936,7 +936,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+          "Value": "Tue, 25 Feb 2025 21:28:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -952,7 +952,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\vcy69vvxaj-8inm30yfxf.gz",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\vcy69vvxaj-8inm30yfxf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -975,7 +975,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+          "Value": "Tue, 25 Feb 2025 21:28:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1015,7 +1015,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1036,7 +1036,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+          "Value": "Tue, 25 Feb 2025 21:28:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1060,7 +1060,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\vcy69vvxaj-8inm30yfxf.gz",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\vcy69vvxaj-8inm30yfxf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1081,7 +1081,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+          "Value": "Tue, 25 Feb 2025 21:28:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1113,7 +1113,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.gz",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ja02s6j6pq-6gzpyzhau4.gz",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ja02s6j6pq-6gzpyzhau4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1134,7 +1134,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+          "Value": "Tue, 25 Feb 2025 21:28:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1158,7 +1158,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\vcy69vvxaj-8inm30yfxf.gz",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\vcy69vvxaj-8inm30yfxf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1181,7 +1181,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+          "Value": "Tue, 25 Feb 2025 21:28:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1213,7 +1213,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1234,7 +1234,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+          "Value": "Tue, 25 Feb 2025 21:28:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1250,7 +1250,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map.gz",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\vcy69vvxaj-8inm30yfxf.gz",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\vcy69vvxaj-8inm30yfxf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1271,7 +1271,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+          "Value": "Tue, 25 Feb 2025 21:28:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1295,7 +1295,7 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\favicon.png",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1316,7 +1316,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+          "Value": "Tue, 25 Feb 2025 21:28:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1340,7 +1340,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\favicon.png",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1361,7 +1361,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+          "Value": "Tue, 25 Feb 2025 21:28:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1377,7 +1377,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\c9pa0egwxl-q0y09ufdb0.gz",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\c9pa0egwxl-q0y09ufdb0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1400,7 +1400,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+          "Value": "Tue, 25 Feb 2025 21:28:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1432,7 +1432,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\index.html",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1453,7 +1453,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+          "Value": "Tue, 25 Feb 2025 21:28:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1469,7 +1469,7 @@
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\c9pa0egwxl-q0y09ufdb0.gz",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\c9pa0egwxl-q0y09ufdb0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1490,7 +1490,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+          "Value": "Tue, 25 Feb 2025 21:28:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1514,7 +1514,7 @@
     },
     {
       "Route": "index.q0y09ufdb0.html",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\c9pa0egwxl-q0y09ufdb0.gz",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\c9pa0egwxl-q0y09ufdb0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1537,7 +1537,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+          "Value": "Tue, 25 Feb 2025 21:28:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1577,7 +1577,7 @@
     },
     {
       "Route": "index.q0y09ufdb0.html",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\index.html",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1598,7 +1598,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+          "Value": "Tue, 25 Feb 2025 21:28:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1622,7 +1622,7 @@
     },
     {
       "Route": "index.q0y09ufdb0.html.gz",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\c9pa0egwxl-q0y09ufdb0.gz",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\c9pa0egwxl-q0y09ufdb0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1643,7 +1643,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+          "Value": "Tue, 25 Feb 2025 21:28:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1675,7 +1675,7 @@
     },
     {
       "Route": "WalletControl.MauiBlazor.bundle.scp.css",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\5bdgd3dun5-h7u5vnoudv.gz",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\5bdgd3dun5-h7u5vnoudv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1698,7 +1698,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:31:03 GMT"
+          "Value": "Tue, 25 Feb 2025 21:29:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1730,7 +1730,7 @@
     },
     {
       "Route": "WalletControl.MauiBlazor.bundle.scp.css",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\WalletControl.MauiBlazor.bundle.scp.css",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\WalletControl.MauiBlazor.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1751,7 +1751,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:31:03 GMT"
+          "Value": "Tue, 25 Feb 2025 21:29:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1767,7 +1767,7 @@
     },
     {
       "Route": "WalletControl.MauiBlazor.bundle.scp.css.gz",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\5bdgd3dun5-h7u5vnoudv.gz",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\5bdgd3dun5-h7u5vnoudv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1788,7 +1788,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:31:03 GMT"
+          "Value": "Tue, 25 Feb 2025 21:29:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1812,7 +1812,7 @@
     },
     {
       "Route": "WalletControl.MauiBlazor.h7u5vnoudv.bundle.scp.css",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\5bdgd3dun5-h7u5vnoudv.gz",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\5bdgd3dun5-h7u5vnoudv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1835,7 +1835,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:31:03 GMT"
+          "Value": "Tue, 25 Feb 2025 21:29:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1875,7 +1875,7 @@
     },
     {
       "Route": "WalletControl.MauiBlazor.h7u5vnoudv.bundle.scp.css",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\WalletControl.MauiBlazor.bundle.scp.css",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\WalletControl.MauiBlazor.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1896,7 +1896,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:31:03 GMT"
+          "Value": "Tue, 25 Feb 2025 21:29:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1920,7 +1920,7 @@
     },
     {
       "Route": "WalletControl.MauiBlazor.h7u5vnoudv.bundle.scp.css.gz",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\5bdgd3dun5-h7u5vnoudv.gz",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\5bdgd3dun5-h7u5vnoudv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1941,7 +1941,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:31:03 GMT"
+          "Value": "Tue, 25 Feb 2025 21:29:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1973,7 +1973,7 @@
     },
     {
       "Route": "WalletControl.MauiBlazor.h7u5vnoudv.styles.css",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\kj0oejpugy-h7u5vnoudv.gz",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\kj0oejpugy-h7u5vnoudv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1996,7 +1996,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:31:03 GMT"
+          "Value": "Tue, 25 Feb 2025 21:29:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2036,7 +2036,7 @@
     },
     {
       "Route": "WalletControl.MauiBlazor.h7u5vnoudv.styles.css",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\WalletControl.MauiBlazor.styles.css",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\WalletControl.MauiBlazor.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2057,7 +2057,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:31:03 GMT"
+          "Value": "Tue, 25 Feb 2025 21:29:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2081,7 +2081,7 @@
     },
     {
       "Route": "WalletControl.MauiBlazor.h7u5vnoudv.styles.css.gz",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\kj0oejpugy-h7u5vnoudv.gz",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\kj0oejpugy-h7u5vnoudv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2102,7 +2102,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:31:03 GMT"
+          "Value": "Tue, 25 Feb 2025 21:29:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2134,7 +2134,7 @@
     },
     {
       "Route": "WalletControl.MauiBlazor.styles.css",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\kj0oejpugy-h7u5vnoudv.gz",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\kj0oejpugy-h7u5vnoudv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2157,7 +2157,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:31:03 GMT"
+          "Value": "Tue, 25 Feb 2025 21:29:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2189,7 +2189,7 @@
     },
     {
       "Route": "WalletControl.MauiBlazor.styles.css",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\WalletControl.MauiBlazor.styles.css",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\WalletControl.MauiBlazor.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2210,7 +2210,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:31:03 GMT"
+          "Value": "Tue, 25 Feb 2025 21:29:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2226,7 +2226,7 @@
     },
     {
       "Route": "WalletControl.MauiBlazor.styles.css.gz",
-      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\kj0oejpugy-h7u5vnoudv.gz",
+      "AssetFile": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\kj0oejpugy-h7u5vnoudv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2247,7 +2247,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 20:31:03 GMT"
+          "Value": "Tue, 25 Feb 2025 21:29:30 GMT"
         },
         {
           "Name": "Cache-Control",
