@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\WalletControl.MauiBlazor.styles.css",
+      "PackagePath": "staticwebassets\\WalletControl.MauiBlazor.styles.css"
+    },
+    {
+      "Id": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\PROJETOS\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.WalletControl.MauiBlazor.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.WalletControl.MauiBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.build.WalletControl.MauiBlazor.props",
+      "PackagePath": "build\\WalletControl.MauiBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildMultiTargeting.WalletControl.MauiBlazor.props",
+      "PackagePath": "buildMultiTargeting\\WalletControl.MauiBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildTransitive.WalletControl.MauiBlazor.props",
+      "PackagePath": "buildTransitive\\WalletControl.MauiBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,7 @@
+D:\PROJETOS\WalletControl\WalletControl.MauiBlazor\wwwroot\index.html
+D:\PROJETOS\WalletControl\WalletControl.MauiBlazor\wwwroot\css\bootstrap\bootstrap.min.css
+D:\PROJETOS\WalletControl\WalletControl.MauiBlazor\wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\favicon.png
+wwwroot\index.html

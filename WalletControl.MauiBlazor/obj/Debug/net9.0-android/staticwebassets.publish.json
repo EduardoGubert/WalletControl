@@ -1,0 +1,3700 @@
+{
+  "Version": 1,
+  "Hash": "I3oKBNu02Sp7XHOgwgmJ221gDKrRBHU5Xn3SqKhqR00=",
+  "Source": "WalletControl.MauiBlazor",
+  "BasePath": "/",
+  "Mode": "Root",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WalletControl.MauiBlazor\\wwwroot",
+      "Source": "WalletControl.MauiBlazor",
+      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\",
+      "BasePath": "/",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\eduar\\.nuget\\packages\\mudblazor\\8.3.0\\staticwebassets\\MudBlazor.min.css",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\eduar\\.nuget\\packages\\mudblazor\\8.3.0\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hmu6kx9mgf",
+      "Integrity": "d1ee8m8CKXHLkW0DDwn00o/ghDNhscMVl/ei7IzThfU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\mudblazor\\8.3.0\\staticwebassets\\MudBlazor.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\eduar\\.nuget\\packages\\mudblazor\\8.3.0\\staticwebassets\\MudBlazor.min.js",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\eduar\\.nuget\\packages\\mudblazor\\8.3.0\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tspksaymx7",
+      "Integrity": "Y5zCtrV6/XngfIAwnKZESn//G3w6zwlrDewTKl6fojQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\mudblazor\\8.3.0\\staticwebassets\\MudBlazor.min.js"
+    },
+    {
+      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\0wz98yz2xy-tspksaymx7.gz",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\eduar\\.nuget\\packages\\mudblazor\\8.3.0\\staticwebassets\\MudBlazor.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "38oyroe53l",
+      "Integrity": "IyoNhl6MrV1B9MHmk4EvsQwuZhryw5pfXcNgx/nICrc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\mudblazor\\8.3.0\\staticwebassets\\MudBlazor.min.js"
+    },
+    {
+      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\5bdgd3dun5-h7u5vnoudv.gz",
+      "SourceId": "WalletControl.MauiBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "WalletControl.MauiBlazor#[.{fingerprint=h7u5vnoudv}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\WalletControl.MauiBlazor.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "b091g3ry9x",
+      "Integrity": "2w8Dq2MdmUwLCKmtutiUmv0p8FOmS55FyP3+3l22nnA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\WalletControl.MauiBlazor.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\c9pa0egwxl-q0y09ufdb0.gz",
+      "SourceId": "WalletControl.MauiBlazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint=q0y09ufdb0}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "bzwe6bbh7j",
+      "Integrity": "d2AkHVmAjZhAKovHGM5Q3bi/+6wC11sOTDxrWh9zDIs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\ja02s6j6pq-6gzpyzhau4.gz",
+      "SourceId": "WalletControl.MauiBlazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "7l51xal3e9",
+      "Integrity": "dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\kj0oejpugy-h7u5vnoudv.gz",
+      "SourceId": "WalletControl.MauiBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "WalletControl.MauiBlazor#[.{fingerprint=h7u5vnoudv}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\WalletControl.MauiBlazor.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "b091g3ry9x",
+      "Integrity": "2w8Dq2MdmUwLCKmtutiUmv0p8FOmS55FyP3+3l22nnA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\WalletControl.MauiBlazor.styles.css"
+    },
+    {
+      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\0wz98yz2xy-tspksaymx7.br",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.js.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\eduar\\.nuget\\packages\\mudblazor\\8.3.0\\staticwebassets\\MudBlazor.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "a1gbno79lv",
+      "Integrity": "ElMgImSQZkaJeltf35eBAFbdhGmIxdnZKGWBlYLuGQg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\mudblazor\\8.3.0\\staticwebassets\\MudBlazor.min.js"
+    },
+    {
+      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\5bdgd3dun5-h7u5vnoudv.br",
+      "SourceId": "WalletControl.MauiBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "WalletControl.MauiBlazor#[.{fingerprint=h7u5vnoudv}]!.bundle.scp.css.br",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\WalletControl.MauiBlazor.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "9t24eva2yh",
+      "Integrity": "PbGMU7XT+x8shch14v9EEx5yQyQWgWB726hShKIJR0g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\WalletControl.MauiBlazor.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\c9pa0egwxl-q0y09ufdb0.br",
+      "SourceId": "WalletControl.MauiBlazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint=q0y09ufdb0}]?.html.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "xc1e0wvqmg",
+      "Integrity": "Ye65FZMKyWFvijQvwNCSEeXse/Kbmpz8j55mCZ/WmoI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\ja02s6j6pq-6gzpyzhau4.br",
+      "SourceId": "WalletControl.MauiBlazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "2o883p7o84",
+      "Integrity": "4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\kj0oejpugy-h7u5vnoudv.br",
+      "SourceId": "WalletControl.MauiBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "WalletControl.MauiBlazor#[.{fingerprint=h7u5vnoudv}]?.styles.css.br",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\WalletControl.MauiBlazor.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "9t24eva2yh",
+      "Integrity": "PbGMU7XT+x8shch14v9EEx5yQyQWgWB726hShKIJR0g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\WalletControl.MauiBlazor.styles.css"
+    },
+    {
+      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\tzxjg6is5z-hmu6kx9mgf.br",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.css.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\eduar\\.nuget\\packages\\mudblazor\\8.3.0\\staticwebassets\\MudBlazor.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "7x8toov8xg",
+      "Integrity": "azpR2u14KlRZYeVDRMndguFSuXCCRyRx7MkAALhEoA8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\mudblazor\\8.3.0\\staticwebassets\\MudBlazor.min.css"
+    },
+    {
+      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\vcy69vvxaj-8inm30yfxf.br",
+      "SourceId": "WalletControl.MauiBlazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "b4a1wrn6r6",
+      "Integrity": "e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\tzxjg6is5z-hmu6kx9mgf.gz",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\eduar\\.nuget\\packages\\mudblazor\\8.3.0\\staticwebassets\\MudBlazor.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ckxk5mvy4m",
+      "Integrity": "FGzj5N96agzRrpcAEzEpc1eJaogdOMgTMenRMgFkfUA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\mudblazor\\8.3.0\\staticwebassets\\MudBlazor.min.css"
+    },
+    {
+      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\vcy69vvxaj-8inm30yfxf.gz",
+      "SourceId": "WalletControl.MauiBlazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "m532s4naxw",
+      "Integrity": "epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\WalletControl.MauiBlazor.styles.css",
+      "SourceId": "WalletControl.MauiBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\",
+      "BasePath": "/",
+      "RelativePath": "WalletControl.MauiBlazor#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "h7u5vnoudv",
+      "Integrity": "05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\WalletControl.MauiBlazor.styles.css"
+    },
+    {
+      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\WalletControl.MauiBlazor.bundle.scp.css",
+      "SourceId": "WalletControl.MauiBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\",
+      "BasePath": "/",
+      "RelativePath": "WalletControl.MauiBlazor#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "h7u5vnoudv",
+      "Integrity": "05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\WalletControl.MauiBlazor.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "SourceId": "WalletControl.MauiBlazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "WalletControl.MauiBlazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\favicon.png",
+      "SourceId": "WalletControl.MauiBlazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\index.html",
+      "SourceId": "WalletControl.MauiBlazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q0y09ufdb0",
+      "Integrity": "xkIDYeCGUjO8Sh+TmdDwf8nIwfcMJEYVBy4YDEcOaFY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.css",
+      "AssetFile": "C:\\Users\\eduar\\.nuget\\packages\\mudblazor\\8.3.0\\staticwebassets\\MudBlazor.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "595896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d1ee8m8CKXHLkW0DDwn00o/ghDNhscMVl/ei7IzThfU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 18:04:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d1ee8m8CKXHLkW0DDwn00o/ghDNhscMVl/ei7IzThfU="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.css",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\tzxjg6is5z-hmu6kx9mgf.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000024635396"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40591"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"azpR2u14KlRZYeVDRMndguFSuXCCRyRx7MkAALhEoA8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 18:04:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"d1ee8m8CKXHLkW0DDwn00o/ghDNhscMVl/ei7IzThfU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d1ee8m8CKXHLkW0DDwn00o/ghDNhscMVl/ei7IzThfU="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.css",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\tzxjg6is5z-hmu6kx9mgf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000015496428"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64530"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FGzj5N96agzRrpcAEzEpc1eJaogdOMgTMenRMgFkfUA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 18:04:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"d1ee8m8CKXHLkW0DDwn00o/ghDNhscMVl/ei7IzThfU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d1ee8m8CKXHLkW0DDwn00o/ghDNhscMVl/ei7IzThfU="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.css.br",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\tzxjg6is5z-hmu6kx9mgf.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"azpR2u14KlRZYeVDRMndguFSuXCCRyRx7MkAALhEoA8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 18:04:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-azpR2u14KlRZYeVDRMndguFSuXCCRyRx7MkAALhEoA8="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.css.gz",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\tzxjg6is5z-hmu6kx9mgf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64530"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FGzj5N96agzRrpcAEzEpc1eJaogdOMgTMenRMgFkfUA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 18:04:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FGzj5N96agzRrpcAEzEpc1eJaogdOMgTMenRMgFkfUA="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.hmu6kx9mgf.css",
+      "AssetFile": "C:\\Users\\eduar\\.nuget\\packages\\mudblazor\\8.3.0\\staticwebassets\\MudBlazor.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "595896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d1ee8m8CKXHLkW0DDwn00o/ghDNhscMVl/ei7IzThfU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 18:04:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hmu6kx9mgf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d1ee8m8CKXHLkW0DDwn00o/ghDNhscMVl/ei7IzThfU="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MudBlazor/MudBlazor.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.js",
+      "AssetFile": "C:\\Users\\eduar\\.nuget\\packages\\mudblazor\\8.3.0\\staticwebassets\\MudBlazor.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55250"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y5zCtrV6/XngfIAwnKZESn//G3w6zwlrDewTKl6fojQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 18:04:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y5zCtrV6/XngfIAwnKZESn//G3w6zwlrDewTKl6fojQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.js",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\0wz98yz2xy-tspksaymx7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000085389804"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11710"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IyoNhl6MrV1B9MHmk4EvsQwuZhryw5pfXcNgx/nICrc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 18:04:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Y5zCtrV6/XngfIAwnKZESn//G3w6zwlrDewTKl6fojQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y5zCtrV6/XngfIAwnKZESn//G3w6zwlrDewTKl6fojQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.js",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\0wz98yz2xy-tspksaymx7.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000095675469"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10451"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ElMgImSQZkaJeltf35eBAFbdhGmIxdnZKGWBlYLuGQg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 18:04:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Y5zCtrV6/XngfIAwnKZESn//G3w6zwlrDewTKl6fojQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y5zCtrV6/XngfIAwnKZESn//G3w6zwlrDewTKl6fojQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.js.br",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\0wz98yz2xy-tspksaymx7.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10451"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ElMgImSQZkaJeltf35eBAFbdhGmIxdnZKGWBlYLuGQg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 18:04:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ElMgImSQZkaJeltf35eBAFbdhGmIxdnZKGWBlYLuGQg="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.js.gz",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\0wz98yz2xy-tspksaymx7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11710"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IyoNhl6MrV1B9MHmk4EvsQwuZhryw5pfXcNgx/nICrc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 18:04:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IyoNhl6MrV1B9MHmk4EvsQwuZhryw5pfXcNgx/nICrc="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.tspksaymx7.js",
+      "AssetFile": "C:\\Users\\eduar\\.nuget\\packages\\mudblazor\\8.3.0\\staticwebassets\\MudBlazor.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55250"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y5zCtrV6/XngfIAwnKZESn//G3w6zwlrDewTKl6fojQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 18:04:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tspksaymx7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y5zCtrV6/XngfIAwnKZESn//G3w6zwlrDewTKl6fojQ="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MudBlazor/MudBlazor.min.js"
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\ja02s6j6pq-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041912905"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23858"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\ja02s6j6pq-6gzpyzhau4.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000057250816"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17466"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css.br",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\ja02s6j6pq-6gzpyzhau4.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17466"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css.gz",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\ja02s6j6pq-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\ja02s6j6pq-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041912905"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23858"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\ja02s6j6pq-6gzpyzhau4.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000057250816"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17466"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\vcy69vvxaj-8inm30yfxf.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000017661604"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56619"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\vcy69vvxaj-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013397104"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74642"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map.br",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\vcy69vvxaj-8inm30yfxf.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\vcy69vvxaj-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.br",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\ja02s6j6pq-6gzpyzhau4.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17466"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.gz",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\ja02s6j6pq-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\vcy69vvxaj-8inm30yfxf.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000017661604"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56619"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\vcy69vvxaj-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013397104"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74642"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map.br",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\vcy69vvxaj-8inm30yfxf.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map.gz",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\vcy69vvxaj-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\c9pa0egwxl-q0y09ufdb0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002164502165"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "461"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d2AkHVmAjZhAKovHGM5Q3bi/+6wC11sOTDxrWh9zDIs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xkIDYeCGUjO8Sh+TmdDwf8nIwfcMJEYVBy4YDEcOaFY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xkIDYeCGUjO8Sh+TmdDwf8nIwfcMJEYVBy4YDEcOaFY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\c9pa0egwxl-q0y09ufdb0.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.003003003003"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ye65FZMKyWFvijQvwNCSEeXse/Kbmpz8j55mCZ/WmoI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xkIDYeCGUjO8Sh+TmdDwf8nIwfcMJEYVBy4YDEcOaFY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xkIDYeCGUjO8Sh+TmdDwf8nIwfcMJEYVBy4YDEcOaFY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xkIDYeCGUjO8Sh+TmdDwf8nIwfcMJEYVBy4YDEcOaFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xkIDYeCGUjO8Sh+TmdDwf8nIwfcMJEYVBy4YDEcOaFY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.br",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\c9pa0egwxl-q0y09ufdb0.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ye65FZMKyWFvijQvwNCSEeXse/Kbmpz8j55mCZ/WmoI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ye65FZMKyWFvijQvwNCSEeXse/Kbmpz8j55mCZ/WmoI="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\c9pa0egwxl-q0y09ufdb0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d2AkHVmAjZhAKovHGM5Q3bi/+6wC11sOTDxrWh9zDIs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d2AkHVmAjZhAKovHGM5Q3bi/+6wC11sOTDxrWh9zDIs="
+        }
+      ]
+    },
+    {
+      "Route": "index.q0y09ufdb0.html",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\c9pa0egwxl-q0y09ufdb0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002164502165"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "461"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d2AkHVmAjZhAKovHGM5Q3bi/+6wC11sOTDxrWh9zDIs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xkIDYeCGUjO8Sh+TmdDwf8nIwfcMJEYVBy4YDEcOaFY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q0y09ufdb0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xkIDYeCGUjO8Sh+TmdDwf8nIwfcMJEYVBy4YDEcOaFY="
+        }
+      ]
+    },
+    {
+      "Route": "index.q0y09ufdb0.html",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\c9pa0egwxl-q0y09ufdb0.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.003003003003"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ye65FZMKyWFvijQvwNCSEeXse/Kbmpz8j55mCZ/WmoI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xkIDYeCGUjO8Sh+TmdDwf8nIwfcMJEYVBy4YDEcOaFY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q0y09ufdb0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xkIDYeCGUjO8Sh+TmdDwf8nIwfcMJEYVBy4YDEcOaFY="
+        }
+      ]
+    },
+    {
+      "Route": "index.q0y09ufdb0.html",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xkIDYeCGUjO8Sh+TmdDwf8nIwfcMJEYVBy4YDEcOaFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q0y09ufdb0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xkIDYeCGUjO8Sh+TmdDwf8nIwfcMJEYVBy4YDEcOaFY="
+        }
+      ]
+    },
+    {
+      "Route": "index.q0y09ufdb0.html.br",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\c9pa0egwxl-q0y09ufdb0.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ye65FZMKyWFvijQvwNCSEeXse/Kbmpz8j55mCZ/WmoI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q0y09ufdb0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ye65FZMKyWFvijQvwNCSEeXse/Kbmpz8j55mCZ/WmoI="
+        }
+      ]
+    },
+    {
+      "Route": "index.q0y09ufdb0.html.gz",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\c9pa0egwxl-q0y09ufdb0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d2AkHVmAjZhAKovHGM5Q3bi/+6wC11sOTDxrWh9zDIs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 12:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q0y09ufdb0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d2AkHVmAjZhAKovHGM5Q3bi/+6wC11sOTDxrWh9zDIs="
+        }
+      ]
+    },
+    {
+      "Route": "WalletControl.MauiBlazor.bundle.scp.css",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\5bdgd3dun5-h7u5vnoudv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000612745098"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1631"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2w8Dq2MdmUwLCKmtutiUmv0p8FOmS55FyP3+3l22nnA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 20:45:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA="
+        }
+      ]
+    },
+    {
+      "Route": "WalletControl.MauiBlazor.bundle.scp.css",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\5bdgd3dun5-h7u5vnoudv.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000742942051"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1345"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PbGMU7XT+x8shch14v9EEx5yQyQWgWB726hShKIJR0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 20:45:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA="
+        }
+      ]
+    },
+    {
+      "Route": "WalletControl.MauiBlazor.bundle.scp.css",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\WalletControl.MauiBlazor.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 20:45:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA="
+        }
+      ]
+    },
+    {
+      "Route": "WalletControl.MauiBlazor.bundle.scp.css.br",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\5bdgd3dun5-h7u5vnoudv.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PbGMU7XT+x8shch14v9EEx5yQyQWgWB726hShKIJR0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 20:45:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PbGMU7XT+x8shch14v9EEx5yQyQWgWB726hShKIJR0g="
+        }
+      ]
+    },
+    {
+      "Route": "WalletControl.MauiBlazor.bundle.scp.css.gz",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\5bdgd3dun5-h7u5vnoudv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1631"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2w8Dq2MdmUwLCKmtutiUmv0p8FOmS55FyP3+3l22nnA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 20:45:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2w8Dq2MdmUwLCKmtutiUmv0p8FOmS55FyP3+3l22nnA="
+        }
+      ]
+    },
+    {
+      "Route": "WalletControl.MauiBlazor.h7u5vnoudv.bundle.scp.css",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\5bdgd3dun5-h7u5vnoudv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000612745098"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1631"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2w8Dq2MdmUwLCKmtutiUmv0p8FOmS55FyP3+3l22nnA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 20:45:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h7u5vnoudv"
+        },
+        {
+          "Name": "label",
+          "Value": "WalletControl.MauiBlazor.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA="
+        }
+      ]
+    },
+    {
+      "Route": "WalletControl.MauiBlazor.h7u5vnoudv.bundle.scp.css",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\5bdgd3dun5-h7u5vnoudv.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000742942051"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1345"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PbGMU7XT+x8shch14v9EEx5yQyQWgWB726hShKIJR0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 20:45:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h7u5vnoudv"
+        },
+        {
+          "Name": "label",
+          "Value": "WalletControl.MauiBlazor.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA="
+        }
+      ]
+    },
+    {
+      "Route": "WalletControl.MauiBlazor.h7u5vnoudv.bundle.scp.css",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\WalletControl.MauiBlazor.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 20:45:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h7u5vnoudv"
+        },
+        {
+          "Name": "label",
+          "Value": "WalletControl.MauiBlazor.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA="
+        }
+      ]
+    },
+    {
+      "Route": "WalletControl.MauiBlazor.h7u5vnoudv.bundle.scp.css.br",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\5bdgd3dun5-h7u5vnoudv.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PbGMU7XT+x8shch14v9EEx5yQyQWgWB726hShKIJR0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 20:45:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h7u5vnoudv"
+        },
+        {
+          "Name": "label",
+          "Value": "WalletControl.MauiBlazor.bundle.scp.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PbGMU7XT+x8shch14v9EEx5yQyQWgWB726hShKIJR0g="
+        }
+      ]
+    },
+    {
+      "Route": "WalletControl.MauiBlazor.h7u5vnoudv.bundle.scp.css.gz",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\5bdgd3dun5-h7u5vnoudv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1631"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2w8Dq2MdmUwLCKmtutiUmv0p8FOmS55FyP3+3l22nnA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 20:45:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h7u5vnoudv"
+        },
+        {
+          "Name": "label",
+          "Value": "WalletControl.MauiBlazor.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2w8Dq2MdmUwLCKmtutiUmv0p8FOmS55FyP3+3l22nnA="
+        }
+      ]
+    },
+    {
+      "Route": "WalletControl.MauiBlazor.h7u5vnoudv.styles.css",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\kj0oejpugy-h7u5vnoudv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000612745098"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1631"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2w8Dq2MdmUwLCKmtutiUmv0p8FOmS55FyP3+3l22nnA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 20:45:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h7u5vnoudv"
+        },
+        {
+          "Name": "label",
+          "Value": "WalletControl.MauiBlazor.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA="
+        }
+      ]
+    },
+    {
+      "Route": "WalletControl.MauiBlazor.h7u5vnoudv.styles.css",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\kj0oejpugy-h7u5vnoudv.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000742942051"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1345"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PbGMU7XT+x8shch14v9EEx5yQyQWgWB726hShKIJR0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 20:45:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h7u5vnoudv"
+        },
+        {
+          "Name": "label",
+          "Value": "WalletControl.MauiBlazor.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA="
+        }
+      ]
+    },
+    {
+      "Route": "WalletControl.MauiBlazor.h7u5vnoudv.styles.css",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\WalletControl.MauiBlazor.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 20:45:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h7u5vnoudv"
+        },
+        {
+          "Name": "label",
+          "Value": "WalletControl.MauiBlazor.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA="
+        }
+      ]
+    },
+    {
+      "Route": "WalletControl.MauiBlazor.h7u5vnoudv.styles.css.br",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\kj0oejpugy-h7u5vnoudv.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PbGMU7XT+x8shch14v9EEx5yQyQWgWB726hShKIJR0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 20:45:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h7u5vnoudv"
+        },
+        {
+          "Name": "label",
+          "Value": "WalletControl.MauiBlazor.styles.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PbGMU7XT+x8shch14v9EEx5yQyQWgWB726hShKIJR0g="
+        }
+      ]
+    },
+    {
+      "Route": "WalletControl.MauiBlazor.h7u5vnoudv.styles.css.gz",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\kj0oejpugy-h7u5vnoudv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1631"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2w8Dq2MdmUwLCKmtutiUmv0p8FOmS55FyP3+3l22nnA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 20:45:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h7u5vnoudv"
+        },
+        {
+          "Name": "label",
+          "Value": "WalletControl.MauiBlazor.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2w8Dq2MdmUwLCKmtutiUmv0p8FOmS55FyP3+3l22nnA="
+        }
+      ]
+    },
+    {
+      "Route": "WalletControl.MauiBlazor.styles.css",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\kj0oejpugy-h7u5vnoudv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000612745098"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1631"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2w8Dq2MdmUwLCKmtutiUmv0p8FOmS55FyP3+3l22nnA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 20:45:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA="
+        }
+      ]
+    },
+    {
+      "Route": "WalletControl.MauiBlazor.styles.css",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\kj0oejpugy-h7u5vnoudv.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000742942051"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1345"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PbGMU7XT+x8shch14v9EEx5yQyQWgWB726hShKIJR0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 20:45:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA="
+        }
+      ]
+    },
+    {
+      "Route": "WalletControl.MauiBlazor.styles.css",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\WalletControl.MauiBlazor.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 20:45:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-05xePjU6NM3UprM6kMSWT0THLhJaIXtrj9tGC0XQoPA="
+        }
+      ]
+    },
+    {
+      "Route": "WalletControl.MauiBlazor.styles.css.br",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\publish\\kj0oejpugy-h7u5vnoudv.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PbGMU7XT+x8shch14v9EEx5yQyQWgWB726hShKIJR0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 20:45:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PbGMU7XT+x8shch14v9EEx5yQyQWgWB726hShKIJR0g="
+        }
+      ]
+    },
+    {
+      "Route": "WalletControl.MauiBlazor.styles.css.gz",
+      "AssetFile": "D:\\WalletControl\\WalletControl.MauiBlazor\\obj\\Debug\\net9.0-android\\compressed\\kj0oejpugy-h7u5vnoudv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1631"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2w8Dq2MdmUwLCKmtutiUmv0p8FOmS55FyP3+3l22nnA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 20:45:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2w8Dq2MdmUwLCKmtutiUmv0p8FOmS55FyP3+3l22nnA="
+        }
+      ]
+    }
+  ]
+}
